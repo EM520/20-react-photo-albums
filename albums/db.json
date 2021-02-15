@@ -3,26 +3,189 @@
         {
             "id": 1,
             "name": "Album 1",
-            "thumbnail": "https://www.placecage.com/c/200/300",
+            "thumbnail": "https://picsum.photos/seed/picsum/200/300",
             "photos": [
                 {
-                    "name": "photo 1",
-                    "thumbnail": "https://www.placecage.com/c/200/300"
+                    "name": "photo 1-1",
+                    "thumbnail": "https://picsum.photos/200/300.webp"
                 },
                 {
-                    "name": "photo 2",
-                    "thumbnail": "https://www.placecage.com/c/200/300"
+                    "name": "photo 1-2",
+                    "thumbnail": "https://picsum.photos/200/300.webp"
+                },
+              
+                {
+                    "name": "photo 1-3",
+                    "thumbnail": "https://picsum.photos/200/300.webp"
+                },
+                {
+                    "name": "photo 1-4",
+                    "thumbnail": "https://picsum.photos/200/300.webp"
+                },
+                {
+                    "name": "photo 1-5",
+                    "thumbnail": "https://picsum.photos/200/300.webp"
+                },
+                {
+                    "name": "photo 1-6",
+                    "thumbnail": "https://picsum.photos/200/300.webp"
                 }
             ]
         },
         {
             "id": 2,
             "name": "Album 2",
-            "thumbnail": "https://www.placecage.com/c/200/300",
+            "thumbnail": "https://picsum.photos/seed/picsum/200/300",
             "photos": [
                 {
-                    "name": "photo other thing...",
-                    "thumbnail": "https://www.placecage.com/c/200/300"
+                    "name": "photo 2-1",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 2-2",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 2-3",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 2-4",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 2-5",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 2-6",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                }
+           
+            ]
+        }
+        ,
+        {
+            "id": 3,
+            "name": "Album 3",
+            "thumbnail": "https://picsum.photos/seed/picsum/200/300",
+            "photos": [
+                {
+                    "name": "photo 3-1",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 3-2",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 3-3",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 3-4",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 3-5",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 3-6",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Album 4",
+            "thumbnail": "https://picsum.photos/seed/picsum/200/300",
+            "photos": [
+                {
+                    "name": "photo 4-1",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 4-2",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 4-3",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 4-4",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 4-5",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 4-6",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Album 5",
+            "thumbnail": "https://picsum.photos/seed/picsum/200/300",
+            "photos": [
+                {
+                    "name": "photo 5-1",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 5-2",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 5-3",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 5-4",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 5-5",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 5-6",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Album 6",
+            "thumbnail": "https://picsum.photos/seed/picsum/200/300",
+            "photos": [
+                {
+                    "name": "photo 6-1",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 6-2",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 6-3",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 6-4",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 6-5",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
+                },
+                {
+                    "name": "photo 6-6",
+                    "thumbnail": "https://picsum.photos/200/300.jpg"
                 }
             ]
         }
