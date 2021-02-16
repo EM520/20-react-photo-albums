@@ -1,6 +1,8 @@
 import {useState,useEffect} from "react"
 import { Album } from './Album.js';
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom"
+import ModalImage from "react-modal-image"
+import { Lightbox } from "react-modal-image";
 
 export default function AlbumDetail(props) {
     //console.log(props)
@@ -22,6 +24,8 @@ export default function AlbumDetail(props) {
      //console.log(activeAlbums.photos)
    
     const photoList=activeAlbums.photos
+
+   
        
     return <div >
         <h2> {activeAlbums.name} </h2>
@@ -40,19 +44,23 @@ export default function AlbumDetail(props) {
         <ul className="photoList">  
         {photoList && photoList.map((item)=>{
             return <li key={item.id}> 
-             
-            <img  src={item.thumbnail} width="200" height="230" alt=''></img>  <br/>
             
-            <span>{item.name}</span> </li>
+             <ModalImage
+                small={item.thumbnail}
+                large={item.thumbnail} 
+                alt={item.name}
+                className="sPic"/>
+               
+                <span>{item.name}</span> 
+                </li>
             })}
         </ul>
-     
       </div>  
-    
 
     </div>
 }
 
+//<img  src={item.thumbnail} width="200" height="230" alt=''></img>  <br/>
 
 
 
